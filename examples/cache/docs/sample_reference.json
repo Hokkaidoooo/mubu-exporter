@@ -1,0 +1,13 @@
+{
+  "meta": {"id": "sample_reference", "name": "格式参考", "folderId": "0", "updateTime": 0},
+  "data": {
+    "directory": [],
+    "definition": {
+      "nodes": [
+        {"id": "sample_table", "text": "格式一览<table><tr><th>内容</th><th>示例</th></tr><tr><td>类型标记</td><td>&lt;T&gt;</td></tr><tr><td>换行</td><td>第一行<br>第二行</td></tr></table>"},
+        {"id": "sample_link", "text": "<span class=\"node-mention\" data-doc=\"sample_outline\" data-node=\"sample_todo\" data-text=\"%5B%7B%22text%22%3A%22%E6%B4%BB%E5%8A%A8%E4%BB%BB%E5%8A%A1%22%7D%5D\">活动任务</span>"},
+        {"id": "sample_mask", "text": "<u>下划线</u>、<span class=\"mask\">挖空内容</span>与<span class=\"text-color-blue\">颜色</span>"}
+      ]
+    }
+  }
+}

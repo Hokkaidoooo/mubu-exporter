@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "documents": 2,
+  "folders": 1,
+  "nodes": 8,
+  "images": 0,
+  "image_mode": "skip",
+  "style": "adaptive",
+  "files": [
+    {
+      "path": "格式参考.md",
+      "sha256": "2899983f6deca00b05894b73d82cd9debcdf0954b63df37e0c2d9790252391af"
+    },
+    {
+      "path": "示例资料/项目清单.md",
+      "sha256": "5159b738c1005a9d435792298e2d8b9dd3ff495dd5eebd9861b1896f468415d4"
+    }
+  ]
+}

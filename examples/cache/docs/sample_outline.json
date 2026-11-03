@@ -1,0 +1,17 @@
+{
+  "meta": {"id": "sample_outline", "name": "项目清单", "folderId": "sample_folder", "updateTime": 0},
+  "data": {
+    "directory": [{"id": "sample_folder", "name": "示例资料"}],
+    "definition": {
+      "nodes": [{
+        "id": "sample_section", "text": "准备一次示例活动", "note": "活动开始前，核对时间并完成资料准备。",
+        "children": [
+          {"id": "sample_todo", "text": "确认活动时间", "taskStatus": 1},
+          {"id": "sample_done", "text": "准备<span class=\"bold highlight-yellow\">活动资料</span>", "taskStatus": 2},
+          {"id": "sample_code", "text": "<span class=\"codespan\">print(`example`)  # literal</span>"},
+          {"id": "sample_formula", "text": "面积公式：<span class=\"formula\" data-raw=\"S%3D%5Cpi%20r%5E2\"></span>"}
+        ]
+      }]
+    }
+  }
+}

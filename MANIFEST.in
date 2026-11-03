@@ -1,0 +1,4 @@
+include README.md PRIVACY.md CHANGELOG.md LICENSE
+recursive-include examples *.json *.md
+recursive-include tests *.py
+exclude STATUS.md

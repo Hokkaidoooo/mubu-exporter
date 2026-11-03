@@ -1,0 +1,23 @@
+# Account information, note caches, exports and local workspace records.
+.env
+.env.*
+token*.json
+cookies*.json
+cache/
+exports/
+导出/
+STATUS.md
+*.log
+*.part
+.mubu-*/
+.task-*/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+!examples/cache/
+!examples/cache/**
