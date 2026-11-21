@@ -1,5 +1,7 @@
 # Mubu Exporter
 
+**简体中文** · [English](README.en.md) · [Español](README.es.md) · [日本語](README.ja.md)
+
 把幕布大纲整理为可迁移的 Markdown：保留文件夹、富文本、任务状态、表格、公式和文档间引用，支持将图片下载到本地。
 
 Python 3.10+ · Windows / Linux · MIT
